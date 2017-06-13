@@ -18,3 +18,15 @@
 // show col-* grid borders (_grid.scss)
 // ==================================================/
 @include col-grid-border(#000);
+
+// temp
+// ==================================================/
+.modal1 {
+  box-shadow: none;
+  background-color: #000 !important;
+  width: 100%;
+}
+
+.v--modal-overlay {
+  background-color: #000;
+}

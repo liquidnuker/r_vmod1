@@ -816,3 +816,11 @@ body:before {
   position: relative;
   min-height: 1px;
   border: 1px solid #000; }
+
+.modal1 {
+  box-shadow: none;
+  background-color: #000 !important;
+  width: 100%; }
+
+.v--modal-overlay {
+  background-color: #000; }
